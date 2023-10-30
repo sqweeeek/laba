@@ -11,4 +11,4 @@ class Employee:
 
 emp = Employee()
 emp.name = 'Ksyusha'
-emp.slary = 150000
+emp.slary = 3000000
