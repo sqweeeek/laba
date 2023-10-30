@@ -4,4 +4,4 @@ class Employee:
     self.name = name
     self.salary = salary
 
-emp = Employee('Ksyusha', 300000)
+emp= Employee('Ksyusha', 300000)
