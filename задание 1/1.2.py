@@ -16,5 +16,5 @@ class Car:
 myCar = Car()
 myCar.color = "red"
 myCar.fuel = 50
-myCar.Speed = 200
-owner = "Ksyusha"
+myCar.speed = 200
+vladelec = "Ksyusha"
